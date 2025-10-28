@@ -1,8 +1,23 @@
-version.BuildInfo{Version:"v3.19.0", GitCommit:"3d8990f0836691f0229297773f3524598f46bda6", GitTreeState:"clean", GoVersion:"go1.24.7"}
+# Tools versions (2025-10-28T16:41:09+02:00)
 
+## kubectl
+error: unknown flag: --short
+See 'kubectl version --help' for usage.
+
+## helm
+v3.19.0+g3d8990f
+
+## kustomize
+v5.7.1
+
+## terraform
 Terraform v1.9.8
 on linux_amd64
 
+Your version of Terraform is out of date! The latest version
+is 1.13.4. You can update by downloading from https://www.terraform.io/downloads.html
+
+## ansible
 ansible [core 2.16.3]
   config file = None
   configured module search path = ['/home/ivanm/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
@@ -13,10 +28,10 @@ ansible [core 2.16.3]
   jinja version = 3.1.2
   libyaml = True
 
+## trivy
 Version: 0.52.2
 
-v5.7.1
-
+## stern
 version: 1.33.0
 commit: f79098037d951aad53e13aff1f86854b291baf01
 built at: 2025-09-07T06:18:52Z
