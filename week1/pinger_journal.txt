@@ -132,3 +132,131 @@
 окт 28 16:05:01 ivanm-VMware-Virtual-Platform bash[7719]: 2025-10-28T16:05:01+02:00 ping
 окт 28 16:05:01 ivanm-VMware-Virtual-Platform bash[7719]: OK
 окт 28 16:05:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:06:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:06:01 ivanm-VMware-Virtual-Platform bash[7821]: 2025-10-28T16:06:01+02:00 ping
+окт 28 16:06:01 ivanm-VMware-Virtual-Platform bash[7821]: OK
+окт 28 16:06:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:07:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:07:01 ivanm-VMware-Virtual-Platform bash[7851]: 2025-10-28T16:07:01+02:00 ping
+окт 28 16:07:01 ivanm-VMware-Virtual-Platform bash[7851]: OK
+окт 28 16:07:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:08:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:08:01 ivanm-VMware-Virtual-Platform bash[7869]: 2025-10-28T16:08:01+02:00 ping
+окт 28 16:08:01 ivanm-VMware-Virtual-Platform bash[7869]: OK
+окт 28 16:08:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:09:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:09:01 ivanm-VMware-Virtual-Platform bash[7888]: 2025-10-28T16:09:01+02:00 ping
+окт 28 16:09:01 ivanm-VMware-Virtual-Platform bash[7888]: OK
+окт 28 16:09:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:10:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:10:01 ivanm-VMware-Virtual-Platform bash[7906]: 2025-10-28T16:10:01+02:00 ping
+окт 28 16:10:01 ivanm-VMware-Virtual-Platform bash[7906]: OK
+окт 28 16:10:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:11:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:11:01 ivanm-VMware-Virtual-Platform bash[7947]: 2025-10-28T16:11:01+02:00 ping
+окт 28 16:11:01 ivanm-VMware-Virtual-Platform bash[7947]: OK
+окт 28 16:11:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:12:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:12:01 ivanm-VMware-Virtual-Platform bash[8010]: 2025-10-28T16:12:01+02:00 ping
+окт 28 16:12:01 ivanm-VMware-Virtual-Platform bash[8010]: OK
+окт 28 16:12:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:13:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:13:01 ivanm-VMware-Virtual-Platform bash[8028]: 2025-10-28T16:13:01+02:00 ping
+окт 28 16:13:01 ivanm-VMware-Virtual-Platform bash[8028]: OK
+окт 28 16:13:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:14:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:14:01 ivanm-VMware-Virtual-Platform bash[8124]: 2025-10-28T16:14:01+02:00 ping
+окт 28 16:14:01 ivanm-VMware-Virtual-Platform bash[8124]: OK
+окт 28 16:14:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:15:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:15:01 ivanm-VMware-Virtual-Platform bash[8518]: 2025-10-28T16:15:01+02:00 ping
+окт 28 16:15:01 ivanm-VMware-Virtual-Platform bash[8518]: OK
+окт 28 16:15:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:16:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:16:01 ivanm-VMware-Virtual-Platform bash[8711]: 2025-10-28T16:16:01+02:00 ping
+окт 28 16:16:01 ivanm-VMware-Virtual-Platform bash[8711]: OK
+окт 28 16:16:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:17:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:17:01 ivanm-VMware-Virtual-Platform bash[8741]: 2025-10-28T16:17:01+02:00 ping
+окт 28 16:17:01 ivanm-VMware-Virtual-Platform bash[8741]: OK
+окт 28 16:17:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:18:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:18:01 ivanm-VMware-Virtual-Platform bash[8831]: 2025-10-28T16:18:01+02:00 ping
+окт 28 16:18:01 ivanm-VMware-Virtual-Platform bash[8831]: OK
+окт 28 16:18:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:19:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:19:01 ivanm-VMware-Virtual-Platform bash[8886]: 2025-10-28T16:19:01+02:00 ping
+окт 28 16:19:01 ivanm-VMware-Virtual-Platform bash[8886]: OK
+окт 28 16:19:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:20:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:20:01 ivanm-VMware-Virtual-Platform bash[8967]: 2025-10-28T16:20:01+02:00 ping
+окт 28 16:20:01 ivanm-VMware-Virtual-Platform bash[8967]: OK
+окт 28 16:20:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:21:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:21:01 ivanm-VMware-Virtual-Platform bash[9014]: 2025-10-28T16:21:01+02:00 ping
+окт 28 16:21:01 ivanm-VMware-Virtual-Platform bash[9014]: OK
+окт 28 16:21:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:22:00 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:22:00 ivanm-VMware-Virtual-Platform bash[9131]: 2025-10-28T16:22:00+02:00 ping
+окт 28 16:22:00 ivanm-VMware-Virtual-Platform bash[9131]: OK
+окт 28 16:22:00 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:23:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:23:01 ivanm-VMware-Virtual-Platform bash[9171]: 2025-10-28T16:23:01+02:00 ping
+окт 28 16:23:01 ivanm-VMware-Virtual-Platform bash[9171]: OK
+окт 28 16:23:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:24:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:24:01 ivanm-VMware-Virtual-Platform bash[9192]: 2025-10-28T16:24:01+02:00 ping
+окт 28 16:24:01 ivanm-VMware-Virtual-Platform bash[9192]: OK
+окт 28 16:24:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:25:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:25:01 ivanm-VMware-Virtual-Platform bash[9212]: 2025-10-28T16:25:01+02:00 ping
+окт 28 16:25:01 ivanm-VMware-Virtual-Platform bash[9212]: OK
+окт 28 16:25:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:26:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:26:01 ivanm-VMware-Virtual-Platform bash[9240]: 2025-10-28T16:26:01+02:00 ping
+окт 28 16:26:01 ivanm-VMware-Virtual-Platform bash[9240]: OK
+окт 28 16:26:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:27:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:27:01 ivanm-VMware-Virtual-Platform bash[9262]: 2025-10-28T16:27:01+02:00 ping
+окт 28 16:27:01 ivanm-VMware-Virtual-Platform bash[9262]: OK
+окт 28 16:27:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:28:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:28:01 ivanm-VMware-Virtual-Platform bash[9281]: 2025-10-28T16:28:01+02:00 ping
+окт 28 16:28:01 ivanm-VMware-Virtual-Platform bash[9281]: OK
+окт 28 16:28:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:29:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:29:01 ivanm-VMware-Virtual-Platform bash[9303]: 2025-10-28T16:29:01+02:00 ping
+окт 28 16:29:01 ivanm-VMware-Virtual-Platform bash[9303]: OK
+окт 28 16:29:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:30:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:30:01 ivanm-VMware-Virtual-Platform bash[9326]: 2025-10-28T16:30:01+02:00 ping
+окт 28 16:30:01 ivanm-VMware-Virtual-Platform bash[9326]: OK
+окт 28 16:30:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:31:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:31:01 ivanm-VMware-Virtual-Platform bash[9351]: 2025-10-28T16:31:01+02:00 ping
+окт 28 16:31:01 ivanm-VMware-Virtual-Platform bash[9351]: OK
+окт 28 16:31:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:32:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:32:01 ivanm-VMware-Virtual-Platform bash[9373]: 2025-10-28T16:32:01+02:00 ping
+окт 28 16:32:01 ivanm-VMware-Virtual-Platform bash[9373]: OK
+окт 28 16:32:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:33:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:33:01 ivanm-VMware-Virtual-Platform bash[9394]: 2025-10-28T16:33:01+02:00 ping
+окт 28 16:33:01 ivanm-VMware-Virtual-Platform bash[9394]: OK
+окт 28 16:33:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:34:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:34:01 ivanm-VMware-Virtual-Platform bash[9413]: 2025-10-28T16:34:01+02:00 ping
+окт 28 16:34:01 ivanm-VMware-Virtual-Platform bash[9413]: OK
+окт 28 16:34:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:35:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:35:01 ivanm-VMware-Virtual-Platform bash[9431]: 2025-10-28T16:35:01+02:00 ping
+окт 28 16:35:01 ivanm-VMware-Virtual-Platform bash[9431]: OK
+окт 28 16:35:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:36:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:36:01 ivanm-VMware-Virtual-Platform bash[9540]: 2025-10-28T16:36:01+02:00 ping
+окт 28 16:36:01 ivanm-VMware-Virtual-Platform bash[9540]: OK
+окт 28 16:36:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 16:37:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 16:37:01 ivanm-VMware-Virtual-Platform bash[9577]: 2025-10-28T16:37:01+02:00 ping
+окт 28 16:37:01 ivanm-VMware-Virtual-Platform bash[9577]: OK
+окт 28 16:37:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
