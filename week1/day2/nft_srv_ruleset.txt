@@ -1,0 +1,17 @@
+table inet filter {
+	chain input {
+		type filter hook input priority filter; policy drop;
+		ct state established,related accept
+		iifname "lo" accept
+		ip saddr 10.20.0.2 tcp dport 8080 accept
+		counter packets 1 bytes 84 log prefix "DROP " drop
+	}
+
+	chain forward {
+		type filter hook forward priority filter; policy drop;
+	}
+
+	chain output {
+		type filter hook output priority filter; policy accept;
+	}
+}
