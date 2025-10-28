@@ -1,0 +1,22 @@
+version.BuildInfo{Version:"v3.19.0", GitCommit:"3d8990f0836691f0229297773f3524598f46bda6", GitTreeState:"clean", GoVersion:"go1.24.7"}
+
+Terraform v1.9.8
+on linux_amd64
+
+ansible [core 2.16.3]
+  config file = None
+  configured module search path = ['/home/ivanm/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/lib/python3/dist-packages/ansible
+  ansible collection location = /home/ivanm/.ansible/collections:/usr/share/ansible/collections
+  executable location = /usr/bin/ansible
+  python version = 3.12.3 (main, Aug 14 2025, 17:47:21) [GCC 13.3.0] (/usr/bin/python3)
+  jinja version = 3.1.2
+  libyaml = True
+
+Version: 0.52.2
+
+v5.7.1
+
+version: 1.33.0
+commit: f79098037d951aad53e13aff1f86854b291baf01
+built at: 2025-09-07T06:18:52Z
