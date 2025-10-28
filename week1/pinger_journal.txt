@@ -1,0 +1,18 @@
+окт 28 15:14:31 ivanm-VMware-Virtual-Platform systemd[2938]: /home/ivanm/.config/systemd/user/pinger.service:6: Failed to resolve unit specifiers in date "+%F %T ping"; ping -c1 -W1 1.1.1.1 >/dev/null && echo OK || echo FAIL: Invalid slot
+окт 28 15:14:31 ivanm-VMware-Virtual-Platform systemd[2938]: pinger.service: Unit configuration has fatal error, unit will not be started.
+окт 28 15:15:41 ivanm-VMware-Virtual-Platform systemd[2938]: /home/ivanm/.config/systemd/user/pinger.service:6: Failed to resolve unit specifiers in date "+%F %T ping"; ping -c1 -W1 1.1.1.1 >/dev/null && echo OK || echo FAIL: Invalid slot
+окт 28 15:15:41 ivanm-VMware-Virtual-Platform systemd[2938]: pinger.service: Unit configuration has fatal error, unit will not be started.
+окт 28 15:15:44 ivanm-VMware-Virtual-Platform systemd[2938]: /home/ivanm/.config/systemd/user/pinger.service:6: Failed to resolve unit specifiers in date "+%F %T ping"; ping -c1 -W1 1.1.1.1 >/dev/null && echo OK || echo FAIL: Invalid slot
+окт 28 15:15:44 ivanm-VMware-Virtual-Platform systemd[2938]: pinger.service: Unit configuration has fatal error, unit will not be started.
+окт 28 15:15:45 ivanm-VMware-Virtual-Platform systemd[2938]: /home/ivanm/.config/systemd/user/pinger.service:6: Failed to resolve unit specifiers in date "+%F %T ping"; ping -c1 -W1 1.1.1.1 >/dev/null && echo OK || echo FAIL: Invalid slot
+окт 28 15:15:45 ivanm-VMware-Virtual-Platform systemd[2938]: pinger.service: Unit configuration has fatal error, unit will not be started.
+окт 28 15:33:15 ivanm-VMware-Virtual-Platform systemd[2938]: /home/ivanm/.config/systemd/user/pinger.service:6: Failed to resolve unit specifiers in date "+%F %T ping"; ping -c1 -W1 1.1.1.1 >/dev/null && echo OK || echo FAIL: Invalid slot
+окт 28 15:33:15 ivanm-VMware-Virtual-Platform systemd[2938]: pinger.service: Unit configuration has fatal error, unit will not be started.
+окт 28 15:35:13 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 15:35:13 ivanm-VMware-Virtual-Platform bash[6835]: 2025-10-28T15:35:13+02:00 ping
+окт 28 15:35:13 ivanm-VMware-Virtual-Platform bash[6835]: OK
+окт 28 15:35:13 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
+окт 28 15:36:01 ivanm-VMware-Virtual-Platform systemd[2938]: Starting pinger.service - Ping 1.1.1.1 and log to journal...
+окт 28 15:36:01 ivanm-VMware-Virtual-Platform bash[6861]: 2025-10-28T15:36:01+02:00 ping
+окт 28 15:36:01 ivanm-VMware-Virtual-Platform bash[6861]: OK
+окт 28 15:36:01 ivanm-VMware-Virtual-Platform systemd[2938]: Finished pinger.service - Ping 1.1.1.1 and log to journal.
